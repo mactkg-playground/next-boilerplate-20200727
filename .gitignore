@@ -114,3 +114,5 @@ graphql/schema.json
 src/client/gen
 src/server/gen
 public/monaco-prebuilt
+
+src/config/firebaseAdminConfig.json
