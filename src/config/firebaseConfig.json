@@ -1,10 +1,10 @@
 {
-  "apiKey": "XXXXXXX",
-  "authDomain": "XXXXXXXX",
-  "databaseURL": "XXXXX",
-  "projectId": "XXXXX",
-  "storageBucket": "XXXXXX",
-  "messagingSenderId": "XXXX",
-  "appId": "XXXXX",
-  "measurementId": "XXXX"
+  "apiKey": "AIzaSyD-GGnZGwM_xzkuNLw8KxMNWSOUQc11tXA",
+  "authDomain": "playground-66ecc.firebaseapp.com",
+  "databaseURL": "https://playground-66ecc.firebaseio.com",
+  "projectId": "playground-66ecc",
+  "storageBucket": "playground-66ecc.appspot.com",
+  "messagingSenderId": "817819495895",
+  "appId": "1:817819495895:web:fcd6936c4ffd6de0006f92",
+  "measurementId": "G-N9L2D8YYQ0"
 }
