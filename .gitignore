@@ -116,3 +116,5 @@ src/server/gen
 public/monaco-prebuilt
 
 src/config/firebaseAdminConfig.json
+
+.vercel
